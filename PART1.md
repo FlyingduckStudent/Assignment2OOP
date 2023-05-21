@@ -6,7 +6,7 @@ No | ID         | Name | Task descriptions | Contribution %
 -- | ---------- | ---- | ----------------- | --------------
 1  | 1211103169 | Kalla Deveshwara Rao A/L Rama Rao | Main Gameplay Mechanics                 | 34
 2  | 1211104430 | Darwin A/L Radhakrishnan |  Main Gampeplay Mechanics                  | 33
-3  | 1211104171 | Vimal Rich Selvam |  Card And Deck Algorithm                | 33
+3  | 1211104171 | Vimal Rich Selvam | Deck and Player Algorithm                | 33
 4  |     -      |      |                   |
 
 
